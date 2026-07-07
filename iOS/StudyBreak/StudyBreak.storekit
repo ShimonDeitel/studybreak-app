@@ -1,0 +1,27 @@
+{
+  "identifier": "StudyBreak",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "$2.99",
+      "familyShareable": false,
+      "internalID": "1",
+      "localizations": [
+        {
+          "description": "Custom interval presets and daily totals",
+          "displayName": "StudyBreak Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.studybreak.pro",
+      "referenceName": "StudyBreak Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
